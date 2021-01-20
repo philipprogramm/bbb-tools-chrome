@@ -14,8 +14,7 @@
         "tabs",
         "declarativeContent",
         "activeTab",
-        "storage",
-        "<all_urls>"
+        "storage"
     ],
     "content_scripts":[
         {
